@@ -1,0 +1,56 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "python_allure_test",
+    "children" : [ {
+      "name" : "pytest_allure_test",
+      "children" : [ {
+        "name" : "TestClass",
+        "children" : [ {
+          "name" : "test_one",
+          "uid" : "73e8485d9a8f0440",
+          "parentUid" : "6ab5080248d8d602364ce3fb288abd1f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1594530714244,
+            "stop" : 1594530714244,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_two",
+          "uid" : "9367e04b89e49cec",
+          "parentUid" : "6ab5080248d8d602364ce3fb288abd1f",
+          "status" : "failed",
+          "time" : {
+            "start" : 1594530714244,
+            "stop" : 1594530714244,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_three",
+          "uid" : "364d993defca41d6",
+          "parentUid" : "6ab5080248d8d602364ce3fb288abd1f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1594530714295,
+            "stop" : 1594530714295,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6ab5080248d8d602364ce3fb288abd1f"
+      } ],
+      "uid" : "1284b68b2c6ef1ea69a9be10f9bbed2e"
+    } ],
+    "uid" : "a0a31296116a1e22d7020559c50eae6a"
+  } ]
+}

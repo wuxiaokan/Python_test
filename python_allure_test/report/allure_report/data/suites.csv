@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jul 12 13:11:54 CST 2020","Sun Jul 12 13:11:54 CST 2020","0","python_allure_test","pytest_allure_test","TestClass","","","test_one",""
+"passed","Sun Jul 12 13:11:54 CST 2020","Sun Jul 12 13:11:54 CST 2020","0","python_allure_test","pytest_allure_test","TestClass","","","test_three",""
+"failed","Sun Jul 12 13:11:54 CST 2020","Sun Jul 12 13:11:54 CST 2020","0","python_allure_test","pytest_allure_test","TestClass","","","test_two",""

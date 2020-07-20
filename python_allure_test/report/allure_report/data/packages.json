@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "python_allure_test.pytest_allure_test",
+    "children" : [ {
+      "name" : "test_one",
+      "uid" : "73e8485d9a8f0440",
+      "parentUid" : "c2f1b3435ea0c8d61186c72aacc38509",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594530714244,
+        "stop" : 1594530714244,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_two",
+      "uid" : "9367e04b89e49cec",
+      "parentUid" : "c2f1b3435ea0c8d61186c72aacc38509",
+      "status" : "failed",
+      "time" : {
+        "start" : 1594530714244,
+        "stop" : 1594530714244,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_three",
+      "uid" : "364d993defca41d6",
+      "parentUid" : "c2f1b3435ea0c8d61186c72aacc38509",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594530714295,
+        "stop" : 1594530714295,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "python_allure_test.pytest_allure_test"
+  } ]
+}
